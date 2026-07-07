@@ -50,12 +50,6 @@ tensorflow-rnn-models/
 
 # 📸 Project Overview
 
-> *(Upload your purple project image as `project_overview.jpeg`.)*
-
-![Project Overview](images/project_overview.jpeg)
-
----
-
 # 🧠 LSTM Implementation
 
 ### Source Code
